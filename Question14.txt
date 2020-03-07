@@ -1,0 +1,5 @@
+Как в JavaScript можно вызвать функцию?
+2
+1. function myFun( )
+2. myFun( )
+3. myFun

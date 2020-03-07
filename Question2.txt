@@ -1,0 +1,5 @@
+Расшифруйте аббревиатуру DOM
+1
+1. Document Object Model
+2. Digital Optical Modulation
+3. Domestic Object Mode
